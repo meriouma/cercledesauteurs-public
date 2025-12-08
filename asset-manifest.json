@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/static/js/main.dba34b04.js",
+    "main.js": "/static/js/main.b49f8891.js",
     "static/js/839.acb3a93d.chunk.js": "/static/js/839.acb3a93d.chunk.js",
     "static/js/391.7c3f6b70.chunk.js": "/static/js/391.7c3f6b70.chunk.js",
     "static/js/592.a523acc9.chunk.js": "/static/js/592.a523acc9.chunk.js",
-    "static/js/519.9abcd732.chunk.js": "/static/js/519.9abcd732.chunk.js",
+    "static/js/519.fadd1f17.chunk.js": "/static/js/519.fadd1f17.chunk.js",
     "static/js/906.ac9f0879.chunk.js": "/static/js/906.ac9f0879.chunk.js",
     "workbox-d0d6c3ca.js": "/workbox-d0d6c3ca.js",
     "service-worker.js": "/service-worker.js",
@@ -43,6 +43,6 @@
     "static/media/javascript,__webpack_public_path__ = __webpack_base_uri__ = htmlWebpackPluginPublicPath;": "/static/media/javascript,__webpack_public_path__ = __webpack_base_uri__ = htmlWebpackPluginPublicPath;.1feff74f.bin"
   },
   "entrypoints": [
-    "static/js/main.dba34b04.js"
+    "static/js/main.b49f8891.js"
   ]
 }
